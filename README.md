@@ -1,14 +1,165 @@
-💫 About Me:
+# Hi 👋 I'm Ram Ashish Yadav
 
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Developer
+</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ramashishyadav01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ramashishyadav01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramashishyadav01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building modern, scalable and user-friendly web applications with React, Node.js and MongoDB.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ramashishyadav01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Graduate
+- 💻 Full Stack Developer | MERN Stack Developer
+- 🚀 Passionate about building scalable and real-world applications
+- 🌱 Currently improving my skills in TypeScript, Next.js, Docker & Cloud Technologies
+- 🔥 Love solving problems and creating impactful web solutions
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+
+## Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+
+</p>
+
+
+## Database & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🛒 E-Shop - Full Stack E-Commerce Platform
+
+A complete e-commerce application with authentication, product management, cart functionality, and secure payment integration.
+
+### Tech Stack:
+
+`JavaScript` `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
+
+
+🔗 Repository:
+https://github.com/Ramashishyadav01/E-Shop
+
+
+---
+
+
+## 💬 Chatify - Real Time Chat Application
+
+A real-time messaging application that enables instant communication between users using WebSocket technology.
+
+### Tech Stack:
+
+`React` `Node.js` `Express.js` `Tailwind CSS` `Socket.io` `MongoDB`
+
+
+🔗 Repository:
+https://github.com/Ramashishyadav01/Chatify
+
+
+---
+
+
+## 🏋️ Fit Journey - Fitness Application
+
+A modern fitness tracking application designed to manage workouts, track fitness goals, and maintain a healthy lifestyle.
+
+### Tech Stack:
+
+`React` `TypeScript` `Tailwind CSS` `Vite` `React Router`
+
+
+🔗 Repository:
+https://github.com/Ramashishyadav01/Fit-Journey
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ramashishyadav01&show_icons=true&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramashishyadav01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🤝 Connect With Me
+
+
+<p>
+
+<a href="https://linkedin.com/in/ramashishyadav01">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+
+<a href="https://github.com/Ramashishyadav01">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+
+---
+
+⭐ Thanks for visiting my profile!
