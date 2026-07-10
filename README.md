@@ -1,11 +1,11 @@
-# Hi 👋 I'm Ram Ashish Yadav
+# Hi  I'm Ram Ashish Yadav
 
 <h3 align="center">
 🚀 Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
-Building modern, scalable and user-friendly web applications with React, Node.js and MongoDB.
+Building modern, scalable and user-friendly web applications with JavaScript,TypeScript, React, Node.js, Express.js and MongoDB.
 </p>
 
 ---
@@ -126,14 +126,10 @@ https://github.com/Ramashishyadav01/Fit-Journey
 # 📊 GitHub Stats
 
 
+# 📊 GitHub Stats
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ramashishyadav01&show_icons=true&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramashishyadav01&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramashishyadav01&theme=tokyonight"/>
 </p>
 
 
