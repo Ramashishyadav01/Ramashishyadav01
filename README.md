@@ -1,7 +1,7 @@
 # Hi  I'm Ram Ashish Yadav
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer
+  Full Stack Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
