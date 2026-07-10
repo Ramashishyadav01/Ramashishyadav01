@@ -123,8 +123,6 @@ https://github.com/Ramashishyadav01/Fit-Journey
 
 ---
 
-# 📊 GitHub Stats
-
 
 # 📊 GitHub Stats
 
